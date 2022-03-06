@@ -1,0 +1,19 @@
+.first-class {
+    background-color: rgb(218, 147, 139);
+    font-family: Verdana, 'DejaVu Sans', monospace;
+}
+
+.second-class {
+    font-size: 24px;
+}
+
+#number-two {
+    color: rgb(30, 30, 187);
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: rgb(89, 185, 89);
+    font-size: 24px;
+    font-weight: bold;
+}
